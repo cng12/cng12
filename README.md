@@ -1,0 +1,5 @@
+- 👋 Hi, I’m a web developer with reliable experience in HMTL, Python, CSS, MySQL, PHP and JavaScript.
+- 👀 I’m interested in Web Designing, Database Designer, Database Administrative, Information Security, Data Analysis etc...
+- 🌱 I’m continuously improving my skills in any programming languages that are currently in use and I am always curious to learn the newest technologies to keep up pace with the technology transformation.
+- 💞️ I would like to join a team developer to work on various high-profile projects.
+- 📫 If you want to contact me, please email me.
